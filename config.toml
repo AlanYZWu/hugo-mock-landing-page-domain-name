@@ -48,3 +48,4 @@ enableEmoji = true
   [[module.mounts]]
     source = "static"
     target = "static"
+    

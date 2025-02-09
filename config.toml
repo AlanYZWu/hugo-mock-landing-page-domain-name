@@ -1,8 +1,7 @@
 baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 title = "StrengthCurve"
 author = "Alan Wu"
-copyright = "Alan Wu"
-
+copyright = "© 2025 <a href='https://github.com/AlanYZWu' target='_blank' rel='noopener'>Alan Wu</a>. All rights reserved."
 timeZone = 'Europe/London'
 
 # Multilingual

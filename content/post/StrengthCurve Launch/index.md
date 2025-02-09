@@ -1,5 +1,5 @@
 ---
-title: "StrengthCurve Launc"
+title: "StrengthCurve LauncH"
 description: "After months of hardwork, StrengthCurve is officially ready for launch!"
 date: 2022-05-13T13:00:44+01:00
 draft: false

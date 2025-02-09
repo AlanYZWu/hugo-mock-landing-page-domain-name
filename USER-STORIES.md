@@ -48,7 +48,6 @@ StengthCurve is an app designed to help you visualize your progress in the gym a
 
 ### Sharing Progress
 11. As a user, I want to be able to create and join fitness challenges with my friends so we can work towards goals together
->>>>>>> 26d060a3f65146f8f0159b1c4fd4178d94db2ae3
 
 ### Other App Connectivity
 

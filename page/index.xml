@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on StrengthCurve</title>
-    <link>https://AlanZWu.github.io/hugo-mock-landing-page/page/</link>
+    <link>https://AlanYZWu.github.io/hugo-mock-landing-page/page/</link>
     <description>Recent content in Docs on StrengthCurve</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 &lt;a href=&#39;https://github.com/AlanYZWu&#39; target=&#39;_blank&#39; rel=&#39;noopener&#39;&gt;Alan Wu&lt;/a&gt;. All rights reserved.</copyright>
-    <atom:link href="https://AlanZWu.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://AlanYZWu.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

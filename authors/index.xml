@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on StrengthCurve</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/</link>
+    <link>https://AlanZWu.github.io/hugo-mock-landing-page/authors/</link>
     <description>Recent content in Authors on StrengthCurve</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 &lt;a href=&#39;https://github.com/AlanYZWu&#39; target=&#39;_blank&#39; rel=&#39;noopener&#39;&gt;Alan Wu&lt;/a&gt;. All rights reserved.</copyright>
     <lastBuildDate>Sun, 09 Feb 2025 17:23:03 -0500</lastBuildDate>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://AlanZWu.github.io/hugo-mock-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chatticus Grant Pearson Tucker</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/chatticus-grant-pearson-tucker/</link>
+      <link>https://AlanZWu.github.io/hugo-mock-landing-page/authors/chatticus-grant-pearson-tucker/</link>
       <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/chatticus-grant-pearson-tucker/</guid>
+      <guid>https://AlanZWu.github.io/hugo-mock-landing-page/authors/chatticus-grant-pearson-tucker/</guid>
       <description></description>
     </item>
     <item>
       <title>Filipe Carneiro</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/filipe-carneiro/</link>
+      <link>https://AlanZWu.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/authors/filipe-carneiro/</guid>
+      <guid>https://AlanZWu.github.io/hugo-mock-landing-page/authors/filipe-carneiro/</guid>
       <description>&lt;p&gt;Filipe Carneiro.&lt;/p&gt;</description>
     </item>
   </channel>

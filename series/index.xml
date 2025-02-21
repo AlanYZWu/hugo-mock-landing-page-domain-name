@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Series on StrengthCurve</title>
-    <link>https://AlanYZWu.github.io/hugo-mock-landing-page/series/</link>
-    <description>Recent content in Series on StrengthCurve</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>© 2025 &lt;a href=&#39;https://github.com/AlanYZWu&#39; target=&#39;_blank&#39; rel=&#39;noopener&#39;&gt;Alan Wu&lt;/a&gt;. All rights reserved.</copyright>
-    <atom:link href="https://AlanYZWu.github.io/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on StrengthCurve</title><link>https://AlanYZWu.github.io/hugo-mock-landing-page-autodeployed/series/</link><description>Recent content in Series on StrengthCurve</description><generator>Hugo</generator><language>en</language><copyright>© 2025 &lt;a href='https://github.com/AlanYZWu' target='_blank' rel='noopener'>Alan Wu&lt;/a>. All rights reserved.</copyright><atom:link href="https://AlanYZWu.github.io/hugo-mock-landing-page-autodeployed/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

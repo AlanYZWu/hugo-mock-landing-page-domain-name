@@ -1,4 +1,4 @@
-baseURL = 'https://AlanYZWu.github.io/hugo-mock-landing-page/'
+baseURL = 'https://AlanYZWu.github.io/hugo-mock-landing-page-autodeployed/'
 title = "StrengthCurve"
 author = "Alan Wu"
 copyright = "© 2025 <a href='https://github.com/AlanYZWu' target='_blank' rel='noopener'>Alan Wu</a>. All rights reserved."
@@ -9,7 +9,6 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
-themesdir = "node_modules/@filipecarneiro"
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
